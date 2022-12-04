@@ -1,0 +1,8 @@
+a=input()
+b=input()
+c=ord(a)
+d=ord(b)
+print("c+=d:","c=",c+d,"d=",d)
+print("c-=d:","c=",c,"d=",d)
+print("c*=d:","c=",c*d,"d=",d)
+print("c/=d:","c=",float(c),"d=",d)

@@ -1,0 +1,10 @@
+mySet={"Car","bike","Truck"}
+mySet.add("Cycle")
+mySet1={1,2,3,4,5}
+mySet3={4,5,6,7}
+mySet2=mySet1.union(mySet3)
+print(mySet2)
+mySet2=mySet1.intersection(mySet3)
+print(mySet2)
+mySet2=mySet1.symmetric_difference(mySet3)
+print(mySet2)
