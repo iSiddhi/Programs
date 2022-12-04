@@ -1,0 +1,6 @@
+my_tuple=("apple","orange","pineapple")
+print(my_tuple[0:2])
+list1=list(my_tuple)
+list1.append("virat")
+my_tuple=tuple(list1)
+print(my_tuple)

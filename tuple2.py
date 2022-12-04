@@ -1,0 +1,8 @@
+# tuple1=(1,2,3,4,5)
+# l=list(tuple1)
+# l.reverse()
+# # print(l)
+# tuple1=tuple(l)
+# print(tuple1)
+name=("Gaurav",)
+print(name)
