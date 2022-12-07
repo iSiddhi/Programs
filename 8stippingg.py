@@ -1,7 +1,7 @@
-'''name = input("enter your name")
+name = input("enter your name")
 print ( name.lstrip(),"hello")
 print('HELLO',name.rstrip(),"love")
-print('HELLO',name.strip(),"sir")'''
+print('HELLO',name.strip(),"sir")
 
 
 f_name = input("first name: ")
