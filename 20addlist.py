@@ -8,11 +8,11 @@ name[-1]="sweetu"
 
 #print the list,i wat to visit kerala
 
-
+#
 list1=("i want to visit kerala ")
 list2=list1.replace("kerala","london")
 print(list2)
-
+#
 list1=["japan","indore", "goa"]
 print(list1)
 list1[0]="bombay"
