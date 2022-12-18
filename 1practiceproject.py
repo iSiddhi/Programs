@@ -2,7 +2,7 @@
 
 
 
-user_input=(input("enter the choic"))
+user_input=(input("enter the choice"))
 possible_action=['stone','paper','siccor']
 import random
 computer_input=random.choice(possible_action)
