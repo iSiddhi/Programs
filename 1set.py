@@ -11,9 +11,15 @@ print(myset)'''
 
 myset={"car","boat","train"}
 
-if float(boat) in myset:
+if ("boat") in myset:
     print("boat")
 else:
-    print("invalid")    
+    print("invalid")   
 
+
+
+if ("siddhi") in myset:
+    print("siddhi")     
+else:
+    print("invalid")
 

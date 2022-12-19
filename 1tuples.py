@@ -7,3 +7,7 @@
 
 myTuple=(1,2,3,4)
 print(len(myTuple))
+
+
+myTuple=(1,4,8,9,10,9,83,48,95,73,81,84)
+print(len(myTuple))
