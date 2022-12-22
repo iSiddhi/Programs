@@ -1,13 +1,7 @@
-#write ny program and calculate the area of triangle 
+#write a program to the print the following number pattern using a laptop 
 
-
-a=float(input('enter the first side'))
-b=float(input('enter the first side'))
-c=float(input('enter the second side'))
-
-#calculating
-s= (a+b+c)/2
-
-Area = (s*(s-a)*(s-b)*(s-b))**0.5
-
-print(Area)
+rows = 5
+for i in range(0, rows + 1):
+    for j in range(rows - i, 0, -1):
+        print(j, end=' ')
+    print()
